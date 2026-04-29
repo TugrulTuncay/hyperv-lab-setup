@@ -50,3 +50,9 @@ Projeye ait tüm kurulum adımları detaylı şekilde hazırlanmıştır.
 ## 👤 Hakkımda
 
 YBS öğrencisi olarak sistem ve siber güvenlik alanında kendimi geliştirmekteyim.
+
+## 📸 Dokümantasyon
+
+Projeye ait tüm kurulum adımları ve ekran görüntülerini içeren detaylı sunuma aşağıdan ulaşabilirsiniz:
+
+[👉 Hyper-V Lab Kurulum Sunumunu Görüntüle (Google Drive)](https://docs.google.com/presentation/d/1oc2bS3at05GzWzEQg8gqhErloNrpGtxO/edit?usp=sharing&ouid=112894439986937214207&rtpof=true&sd=true)
